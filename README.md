@@ -1,0 +1,1 @@
+This is a sample project created for pragmatic training delegates
